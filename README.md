@@ -28,6 +28,6 @@
 ## 📫 Connect with Me  
 🔗 **GitHub:** [github.com/JOSEPHLAST](https://github.com/JOSEPHLAST)  
 🔗 **Portfolio:** [josephlast.github.io](https://josephlast.github.io)  
-🔗 **LinkedIn:** [JOSEPHLAST](https://www.linkedin.com/in/josephlast-a-aaa813354/)
+🔗 **LinkedIn:** [JOSEPHLAST]*(https://www.linkedin.com/in/josephlast-a-aaa813354/)*
 
 🚀 *"Code, Learn, and Build the Future!"*  
