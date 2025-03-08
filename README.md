@@ -14,9 +14,9 @@
 
 ## 🚀 Featured Projects  
 🎮 [**Snake Game**](https://github.com/JOSEPHLAST/snake-game) – Classic snake game using Python & Turtle  
-🏓 [**Pong Game**](https://github.com/JOSEPHLAST/pong-game) – 2-player Pong game with Python
-🐢 [**Turtle Crossing Game**](https://github.com/JOSEPHLAST/turtle-crossing) – Classic turtle crossing game using Python and Turtle
-🎨 [**Hirst Painting**](https://github.com/JOSEPHLAST/hirst-painting) – Damien Hirst inspired dot paintings using Python, Turtle and Colorgram
+🏓 [**Pong Game**](https://github.com/JOSEPHLAST/pong-game) – 2-player Pong game with Python   
+🐢 [**Turtle Crossing Game**](https://github.com/JOSEPHLAST/turtle-crossing) – Classic turtle crossing game using Python and Turtle   
+🎨 [**Hirst Painting**](https://github.com/JOSEPHLAST/hirst-painting) – Damien Hirst inspired dot paintings using Python, Turtle and Colorgram   
 
 ---
 
