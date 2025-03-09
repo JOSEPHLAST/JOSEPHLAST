@@ -17,6 +17,7 @@
 🏓 [**Pong Game**](https://github.com/JOSEPHLAST/pong-game) – 2-player Pong game with Python   
 🐢 [**Turtle Crossing Game**](https://github.com/JOSEPHLAST/turtle-crossing) – Classic turtle crossing game using Python and Turtle   
 🎨 [**Hirst Painting**](https://github.com/JOSEPHLAST/hirst-painting) – Damien Hirst inspired dot paintings using Python, Turtle and Colorgram   
+☕️ [**Coffee Machine**](https://github.com/JOSEPHLAST/coffee-machine) – Automated coffee machine using Python (OOP)
 
 ---
 
