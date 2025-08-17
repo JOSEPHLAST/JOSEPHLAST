@@ -23,8 +23,7 @@
 
 ## 📚 What I'm Learning  
 🔹 **Machine Learning & AI** (TensorFlow, OpenCV)  
-🔹 **Advanced Python Libraries** (Matplotlib, Seaborn)  
-🔹 **Web Development** (HTML, CSS, JavaScript)  
+🔹 **Advanced Python Libraries** (Matplotlib, Seaborn)    
 
 ---
 
