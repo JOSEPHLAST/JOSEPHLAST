@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Josephlast!  
 🔹 Passionate about **Python, AI, and Game Development**  
 🔹 Skilled in **Mathematics, Physics, and Problem-Solving**  
-🔹 Exploring **Data Science, Web Development & Robotics**  
+🔹 Exploring **Data Science & Robotics**  
 
 ---
 
